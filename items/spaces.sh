@@ -6,7 +6,7 @@ do
    sketchybar --add space space.$sid left \
               --set space.$sid space=$sid \
                                icon=$sid \
-                               label.font="sketchybar-app-font:Regular:16.0" \
+                               label.font="sketchybar-app-font:Regular:15.0" \
                                label.padding_right=15 \
                                label.y_offset=-1 \
                                script="$PLUGIN_DIR/space.sh" 
